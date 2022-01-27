@@ -1,13 +1,15 @@
 Credits
 
-Asset | Source
--- | --
-Footsteps on gravel | Record myself or CC
-River water flowing | CC
-Birds chirping | CC
-Fisherman monologue | Record myself
-Weather effects | CC
-Fishing rod | CC
-Splash sounds | CC
-Cell phone | CC
-Animal sounds | CC
+Asset | Solution | Source
+-- | -- | --
+Footsteps on gravel | Creative Commons License | https://freesound.org/people/straget/sounds/411206/
+River water flowing | Creative Commons License | https://freesound.org/people/viznoman/sounds/267311/
+Birds chirping | Creative Commons License | https://freesound.org/people/hargissssound/sounds/345852/
+Fisherman monologue | Record myself |
+Rain fall | Creative Commons License | https://freesound.org/people/mshahen/sounds/242894/
+Thunder | Creative Commons License | https://freesound.org/people/kangaroovindaloo/sounds/585077/
+Fishing rod whip | Creative Commons License | https://freesound.org/people/TyroneW/sounds/326381/
+Fishing rod reeling | Creative Commons License | https://freesound.org/people/esperri/sounds/118973/
+Splash sounds | Creative Commons License | https://freesound.org/people/tran5ient/sounds/190080/
+Cell phone | Creative Commons License | https://freesound.org/people/jonkalgor/sounds/369720/
+Fly buzzing | Creative Commons License | https://freesound.org/people/BeeProductive/sounds/395593/
