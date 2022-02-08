@@ -1,1 +1,1 @@
-This is the future site of So-and-So’s audio narrative.
+The idea of my soundscape project, A Fisher’s Tale is to tell a simple but eventful narrative of a fisherman going down to a river to catch some fish. But, he soon finds out that fishing is a sport of patience, in which his patience is tested repeatedly throughout the obstacles he is met with on his goal. Will he persevere and catch the coveted fish he desires?
