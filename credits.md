@@ -2,7 +2,7 @@ Credits
 
 Asset | Solution | Source
 -- | -- | --
-Footsteps on gravel | Creative Commons License | https://freesound.org/people/straget/sounds/411206/
+Footsteps on gravel | Licensed under CC0 1.0 | "Going on a forest road gravel and grass.wav" by straget (https://freesound.org/people/straget/sounds/411206/)
 River water flowing | Creative Commons License | https://freesound.org/people/viznoman/sounds/267311/
 Birds chirping | Creative Commons License | https://freesound.org/people/hargissssound/sounds/345852/
 Fisherman monologue | Record myself |
