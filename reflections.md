@@ -3,15 +3,16 @@ Like many others, this was my first time using Audacity, and I’m happy to say 
 The idea of my soundscape project, A Fisher’s Tale was to tell a simple but eventful narrative of a fisherman going down to a river to catch some fish. I liked this idea because I personally love hearing the sounds of the outdoors, and I wanted to replicate this as best as possible in my project. After I had the idea, I constructed the plot of the narrative, and then I made a list of assets to collect. Almost all of my assets were from the Internet, because it was simply more convenient to get them there versus going outside and trying to record them on my phone. Assembling the list of assets was somewhat difficult, as I was relatively picky with the tracks I wanted to include. The tracks I wanted were kind of generic, but still had to fit the context of the narrative. For example, I wanted audio of rainfall, but I could not have rain that was audibly hitting a hard surface. 
 
 After I had assembled my initial list of sounds, I put them all onto an Audacity file and let them play one after another with the “River” sound playing in the background.
-(screenshot1)
+
+![screenshot1](https://github.com/jsw64/soundscape2022spring/blob/master/screenshot1.PNG)
 
 The next step that I did was to add some more sounds (can, phone vibrating, rain) to enhance the plot, sort them out, adjust the tracks’ amplitude, and then it was ready for peer review. 
 
-(peer feedback)
+![peer feedback](https://github.com/jsw64/soundscape2022spring/blob/master/peer%20feedback.PNG)
 
 A common suggestion that I had gotten from peer reviews was to smooth the transitions, such as the fly buzzing in and the sudden rainfall. To address this, I employed the use of the envelope tool to make the tracks' audio fade in and slowly become louder, which made the transitions sound more gradual and realistic. Additionally for the rainfall audio, I decided to silence the birds chirping audio and quiet the river flowing audio to make the rainfall stand out more. It was a bit chaotic beforehand to have three tracks playing simultaneously in the background, and the rainfall is more recognizable now.
 
-(screenshot4)
+![screenshot4](https://github.com/jsw64/soundscape2022spring/blob/master/screenshot4.PNG)
 
 In terms of baseline criteria, I believe that I satisfy all of them. I had exactly one sound recorded by myself, which was the dialogue for the Fisherman character. I had several other sounds in which I had permission to use, as cited in my credits.md file. I did indeed have three tracks overlaying at several points as well as stayed in between 2-4 minutes in length. I also used several effects, most frequently the “Amplify” feature to help the tracks’ volumes fit more in conjunction with each other.
 
